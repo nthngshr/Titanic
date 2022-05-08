@@ -1,2 +1,2 @@
 # Titanic
-It's a testing repo. Here I'm learning how to use jupyter localy in vscode commiting to github repo. I've decided on a standard titanic dataset and do a classification. 
+It's a testing repo. Here I'm learning how to use jupyter localy in vscode commiting to github. I've decided on a standard titanic dataset and do a classification step by step according 'Machine Learning Pocket Reference' (the book was written in 2019, so you have to adapt the code in 2022). Besides, I added some changes into the initial code from the book.
